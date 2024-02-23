@@ -8,7 +8,7 @@ Este repositório foi criado para colocar em prática o que estou estudando sobr
 ## Overview
 
 - Data Structures
-    - Arrays
+    - [Arrays](https://github.com/uluizeduardo/Estrutura-de-Dados/tree/main/Estrutura-de-Dados/src/arrays)
     - HashTables
     - LinkedLists
     - Stacks 
