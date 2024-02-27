@@ -16,8 +16,7 @@ Imagine uma estante de livros. Cada prateleira da estante é como um array, e ca
 ## Aprendizado
 
 Veja o que vamos aprender aqui:
- - Adicionar elemento no final do vetor
- - Verificar quantidade de elementos no vetor
- - Imprimir elementos do vetor
- - Obter elementos de uma posição do vetor
-  - Verificar se o elemento existe no vetor
+ - [Adicionar um elemento no vetor ✅](#1)
+
+- #### 1
+     Vamos criar nossa classe Vetor e nela vamos criar um método para adicionar elementos nesse vetor.
