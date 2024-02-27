@@ -19,4 +19,4 @@ Veja o que vamos aprender aqui:
  - [Adicionar um elemento no vetor ✅](#1)
 
 - #### 1
-     Vamos criar nossa classe Vetor e nela vamos criar um método para adicionar elementos nesse vetor.
+     Vamos criar nossa classe Vetor e nela vamos criar um método para adicionar elementos nesse vetor, [acesse o código com comentário aqui](https://github.com/uluizeduardo/Estrutura-de-Dados/blob/main/Estrutura-de-Dados/src/arrays/Vetor.java).
