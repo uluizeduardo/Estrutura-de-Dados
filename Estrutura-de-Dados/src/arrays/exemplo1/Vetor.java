@@ -1,4 +1,4 @@
-package arrays;
+package arrays.exemplo1;
 /**
  * Essa é nossa classe vetor, nela vamos estudar a estrutura de dados Array.
  * 
